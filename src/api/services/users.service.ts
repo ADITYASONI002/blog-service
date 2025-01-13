@@ -1,4 +1,4 @@
-import { DbUser} from '../interfaces/users.interface.js';
+import { DbUser } from '../interfaces/users.interface.js';
 import DatabaseLoader from '../../loaders/database.loader.js';
 
 export default class UsersService {
